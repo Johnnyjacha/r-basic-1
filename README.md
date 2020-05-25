@@ -1,6 +1,6 @@
 # [Curso de R Studio y Python]
 <<<<<<< HEAD
-* Johnny Jacha Rojas*
+*Johnny Jacha Rojas*
 >>>>>>> ab20382c2a87fa5caa900fe1cd1375802c0ff54a
 
 * Logística e instalación de R y RStudio y de Anaconda Navigator para Python
